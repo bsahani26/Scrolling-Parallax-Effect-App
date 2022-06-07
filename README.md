@@ -1,4 +1,4 @@
-# amazing_app
+# Scrolling Parallax Effect App
 
 A new Flutter project.
 
